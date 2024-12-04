@@ -2,7 +2,7 @@
 
 Chord Classification in Polyphonic Music Using Machine Learning
 Overview
-This project uses machine learning to classify chords in polyphonic music. By converting audio files into image representations based on chroma features and Pitch Class Profiles (PCP), it aims to identify major and minor chords within complex, multi-instrumental audio samples. This work could support broader applications in music analysis and digital audio processing.
+This project uses machine learning to classify chords in polyphonic music. By converting audio files into image representations based on chroma features and Pitch Class Profiles (PCP), it aims to identify major and minor chords within complex, multi-instrumental audio samples. It aslo uses mel spectograms as an input to a CNN. This work could support broader applications in music analysis and digital audio processing.
 
 Project Goals
 Develop a machine learning model capable of distinguishing between major and minor chords in polyphonic audio files.
